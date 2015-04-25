@@ -195,3 +195,7 @@ footer .nav>li>a:hover {
     background-color:transparent;
 	color:#fff;
 }
+
+.spacer {
+  margin-top: 40px;
+}

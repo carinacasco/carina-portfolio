@@ -203,3 +203,18 @@ footer .nav>li>a:hover {
 .persona-image {
   margin-top: 10px;
 }
+
+.panel-default>.panel-heading {
+  background-color: #D0A09C;
+}
+
+.img-photo {
+  border: solid;
+}
+
+.img-hypothesis {
+  max-height: 320px;
+  /*Center the image*/
+  margin-left: auto;
+  margin-right: auto;
+}

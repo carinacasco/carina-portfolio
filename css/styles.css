@@ -247,3 +247,7 @@ h3 {
 body {
     font-size: 16px;
 }
+
+h3.larger {
+  font-size: 33px;
+}

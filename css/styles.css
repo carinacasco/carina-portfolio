@@ -6,7 +6,9 @@ html,body {
     background:center no-repeat fixed url('https://snap-photos.s3.amazonaws.com/img-thumbs/960w/BGRA0KYCD8.jpg');
     background-size: cover;
     color:#444;
-    font-family: 'Lato', sans-serif;
+    /*font-family: 'Lato', sans-serif;*/
+    font-family: 'Bitter', serif;
+
 }
 
 @media (min-width:768px) {
@@ -228,4 +230,20 @@ footer .nav>li>a:hover {
 
 .problem-and-solution-section {
   background-color: #f6f6f6;
+}
+
+h2, h3 {
+  font-family: 'Bitter', serif;
+}
+
+h2 {
+	font-size: 50px;
+}
+
+h3 {
+    font-size: 27px;
+}
+
+body {
+    font-size: 16px;
 }

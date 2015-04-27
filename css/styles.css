@@ -228,7 +228,7 @@ footer .nav>li>a:hover {
   margin-right: auto;
 }
 
-.problem-and-solution-section {
+.problem-and-solution-section, .problem-statement-and-iterations-section {
   background-color: #f6f6f6;
 }
 
